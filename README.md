@@ -15,7 +15,7 @@ How to build Ubuntu Touch vendor
 
 * Initialize the repo:
 
-        repo init -u git://github.com/LineageOS/android.git -b lineage-17.1
+        repo init -u https://github.com/LineageOS/android.git -b lineage-17.1
 
 * Create a local manifest:
 
